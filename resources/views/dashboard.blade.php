@@ -12,7 +12,7 @@
         </div>
     </div>
 
-    <!-- Action Cards -->
+    <!-- Action Cardss -->
     <div class="row mb-5 g-3">
         <div class="col-md-6">
             <div class="card border-0 shadow-sm h-100 hover-lift">
