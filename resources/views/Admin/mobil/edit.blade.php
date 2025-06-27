@@ -25,7 +25,7 @@
     .form-control,
     .form-select {
         border-radius: 10px;
-        padding: 10px 14px;
+        padding: 10px 14px; /* Reduced padding */
         border: 1px solid #ced4da;
         transition: 0.3s;
     }
