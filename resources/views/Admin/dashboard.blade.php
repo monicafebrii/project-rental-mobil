@@ -33,7 +33,7 @@
         @endforeach
     </div>
 
-    <!-- Manajemen Sistem -->
+    <!-- Memanajemen Sistem -->
     <div class="management-card mb-4">
         <div class="management-header">
             <h5 class="mb-0 fw-semibold text-white">
